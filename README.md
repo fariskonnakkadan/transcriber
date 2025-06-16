@@ -2,11 +2,13 @@
 
 ## Whisper Audio Transcription Tool
 
+
 This command-line tool transcribes an audio file using OpenAI's Whisper model, with support for progress tracking and GPU acceleration.
+
 
 ### Summary
 
-The script uses Python's `argparse` module to handle command-line arguments for transcribing audio files. It allows users to specify:
+
 
 - The input audio file
 - The output text file
