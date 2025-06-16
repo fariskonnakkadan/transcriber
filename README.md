@@ -5,6 +5,10 @@
 
 This command-line tool transcribes an audio file using OpenAI's Whisper model, with support for progress tracking and GPU acceleration.
 
+### Prerequisites
+
+Install packages: 
+`pip install argparse openai-whisper pydub tqdm torch`
 
 ### Summary
 
